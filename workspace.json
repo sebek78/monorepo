@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "running-stats": "packages/running-stats",
+    "running-stats-e2e": "packages/running-stats-e2e"
+  }
 }
